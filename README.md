@@ -72,13 +72,13 @@ emerge -a dev-lang/python
 git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 
-## 3. Execute o programa
+## 3. Entre na Pasta e Execute o Programa
 ```bash
-python main.py
+cd Movimento-Balistico && python main.py
 ```
 ou
 
 ```bash
-python3 main.py
+cd Movimento-Balistico && python3 main.py
 ```
 
