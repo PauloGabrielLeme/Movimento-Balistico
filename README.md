@@ -56,7 +56,7 @@ zypper in python3
 
 Para Arch e derivados:
 ```bash
-sudo pacman -S python
+pacman -S python
 ```
 
 Para Gentoo:
