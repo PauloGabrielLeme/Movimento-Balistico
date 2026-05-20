@@ -39,7 +39,7 @@ Baixe e instale o Python(Windows):
 
 https://www.python.org/downloads/
 
-Para Debian e derivados:
+Para Debian/Ubuntu e derivados:
 ```bash
 apt install python
 ```
