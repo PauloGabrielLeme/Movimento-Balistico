@@ -69,7 +69,7 @@ emerge -a dev-lang/python
 ## 2. Clone ou baixe o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/PauloGabrielLeme/Movimento-Balistico
 ```
 
 ## 3. Entre na Pasta e Execute o Programa
