@@ -35,9 +35,34 @@ O programa possui as seguintes funcionalidades:
 
 ## 1. Instale o Python
 
-Baixe e instale o Python:
+Baixe e instale o Python(Windows):
 
 https://www.python.org/downloads/
+
+Para Debian e derivados:
+```bash
+sudo apt install python
+```
+
+Para Fedora/Red Hat Linux e derivados:
+```bash
+sudo dnf install python3
+```
+
+Para Suse e derivados:
+```bash
+sudo zypper in python3
+```
+
+Para Arch e derivados:
+```bash
+sudo pacman -S python
+```
+
+Para Gentoo:
+```bash
+sudo emerge -a dev-lang/python
+```
 
 ---
 
